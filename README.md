@@ -1,16 +1,116 @@
-## Hi there 👋
+ 
 
-<!--
-**milanakia/milanakia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Milana. S. Kia
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+9381 Vassar Road
+
+Grand Blanc, Michigan 48439   
+
+810.498.9636 
+
+[milana_kia@icloud.com]
+
+[milanaskia88@gbstu.org]
+
+ 
+
+## Experience 
+
+ 
+
+### HOSA States competitor
+
+**Grand Traverse Resort and Spa, Traverse City, Michigan**   
+
+_April 20th-23rd 2024_ 
+
+ 
+
+- Create and present a public presentation of the causes of technology addiction and ways to end or improve it
+- 
+- Presented to multiple judges and gained experience with a worklike place
+
+
+### Volunteer at the Hospitality House of McLaren Flint 
+
+**The Hospitality House of McLaren Flint**   
+
+_Every summer since 2022_ 
+
+ 
+
+- Cleaned pantries; wiped the refrigerator and elevators; watered the plants; vacuumed the game room and kids' room; cleaned/wiped the tables; vacuumed the conference room; picked up leaves on the carpet; dusted the shelves in the gaming area, kids' room, and arts and crafts room; vacuumed top floor; organized refrigerator.
+ 
+
+### League Volleyball 
+
+**Arsenal Volleyball and Five-1 Athetics**   
+
+_January 2021 - May 2024_ 
+
+ 
+
+-Focused on being a better skilled volleyball player
+
+-Volunteered at camps and helped little kids get better at playing the sport of volleyball
+
+
+
+### Volunteer at the Michigan Bariatric Surgery Collaborative
+
+**Michigan Bariatric Surgery Collaborative, Ann Arbor**   
+
+_Every summer since 2021_ 
+
+ 
+
+- Collected data for papers that would published
+
+- Organized the office
+
+- Labeled over 10,000 envelops and mailed them out
+ 
+
+## Education 
+
+ 
+
+### Grand Blanc High School, Grand Blanc, Michigan
+
+Still completing my 4 years
+
+ 
+
+
+
+## Awards 
+
+ 
+
+- 2023-2024 2nd place HOSA regional winner - HOSA
+  
+-  Nrityanjali Kathak Award - Nrityanjali
+
+-  Academic Excellence all 3 years of middle school and first year of high school - Grand Blanc
+ 
+
+## Professional Organizations 
+
+ 
+- Member - Youth Advisory Commitee of Genesee County
+
+
+
+ 
+
+## 🛠 Technology Stack 
+
+* Python, Javascript, Java 
+
+* HTML, CSS 
+
+* GitHub 
+
+* SCORM 
