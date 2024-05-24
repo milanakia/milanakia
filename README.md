@@ -16,12 +16,12 @@ Grand Blanc, Michigan 48439
 📫 How to reach me: <a href='mailto:milanaskia88@gbstu.org'>milanaskia88@gbstu.org</a>
 
 
-	<p align='center'>
-	   <a href="https://www.snapchat.com/in/milana.kia/">
-	       <img src="https://img.shields.io/badge/snapchat-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-	   </a>
-	   <a href="https://t.me/milana.kia">
-	       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<p align='center'>
+<a href="https://www.snapchat.com/in/milana.kia/">
+ <img src="https://img.shields.io/badge/snapchat-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+ <a href="https://t.me/milana.kia">
+ <img src="https://img.shields.io/badge/Youtube-2CA5E0?style=for-the-badge&logo=Youtube&logoColor=white"/>
 
 
 
@@ -67,7 +67,7 @@ _January 2021 - May 2024_
 
  
 
--Focused on being a better skilled volleyball player
+-Focused on being a better-skilled volleyball player
 
 -Volunteered at camps and helped little kids get better at playing the sport of volleyball
 
@@ -118,14 +118,14 @@ Still completing my 4 years
 
 
 ## GitHub Stats
-	<p align='center'>
-	   <a href="https://github-readme-stats.vercel.app/api?username=milana.kia&show_icons=true&count_private=true">
-	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=milana.kia&show_icons=true&count_private=true"/>
-	   </a>
-	   <a href="https://github.com/milana.kia/github-readme-stats">
-	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=milana.kia&layout=compact"/>
-	   </a>
-</p>![image](https://github.com/milanakia/milanakia/assets/170120484/e120c8e2-5c88-417e-a55f-1210a66e4f3e)
+<p align='center'>
+<a href="https://github-readme-stats.vercel.app/api?username=milanakia&show_icons=true&count_private=true">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=milanakia&show_icons=true&count_private=true"/>
+</a>
+<a href="https://github.com/milanakia/github-readme-stats">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanakia&layout=compact"/>
+</a>
+</p>!
 
 
 
