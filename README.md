@@ -14,6 +14,8 @@ Grand Blanc, Michigan 48439
 
 [milanaskia88@gbstu.org]
 
+
+
  
 
 ## Experience 
@@ -102,15 +104,23 @@ Still completing my 4 years
 - Member - Youth Advisory Commitee of Genesee County
 
 
+## GitHub Stats
+	<p align='center'>
+	   <a href="https://github-readme-stats.vercel.app/api?username=milana.kia&show_icons=true&count_private=true">
+	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=milana.kia&show_icons=true&count_private=true"/>
+	   </a>
+	   <a href="https://github.com/milana.kia/github-readme-stats">
+	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=milana.kia&layout=compact"/>
+	   </a>
+</p>![image](https://github.com/milanakia/milanakia/assets/170120484/e120c8e2-5c88-417e-a55f-1210a66e4f3e)
+
+
+
 
  
 
 ## 🛠 Technology Stack 
 
-* Python, Javascript, Java 
+	## 🛠 Technology Stack
+* GitHub/GitLab![image](https://github.com/milanakia/milanakia/assets/170120484/8214f86f-e380-49ec-96a4-db0c45c548bb)
 
-* HTML, CSS 
-
-* GitHub 
-
-* SCORM 
