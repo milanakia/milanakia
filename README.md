@@ -16,6 +16,16 @@ Grand Blanc, Michigan 48439
 📫 How to reach me: <a href='mailto:milanaskia88@gbstu.org'>milanaskia88@gbstu.org</a>
 
 
+	<p align='center'>
+	   <a href="https://www.snapchat.com/in/milana.kia/">
+	       <img src="https://img.shields.io/badge/snapchat-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+	   </a>
+	   <a href="https://t.me/milana.kia">
+	       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+
+
+
 
 
 
