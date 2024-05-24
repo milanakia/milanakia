@@ -2,7 +2,7 @@
 
 # Milana. S. Kia
 
- 
+ Hi my name is Milana Kia. I am currently enrolled as a freshman at Grand Blanc High School located in Grand Blanc, Michigan
 
 9381 Vassar Road
 
