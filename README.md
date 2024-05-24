@@ -10,8 +10,12 @@ Grand Blanc, Michigan 48439
 
 810.498.9636 
 
-📫 How to reach me: <a href='mailto:milana_kia@icloud.com'>milanaskia88@gbstu.org</a>
+📫 How to reach me: <a href='mailto:milana_kia@icloud.com'>milana_kia@icloud.com</a>
 </p>![image](https://github.com/milanakia/milanakia/assets/170120484/53b79a80-3e27-4759-8d27-063abc340dfd)
+
+📫 How to reach me: <a href='mailto:milanaskia88@gbstu.org'>milanaskia88@gbstu.org</a>
+</p>![image](https://github.com/milanakia/milanakia/assets/170120484/53b79a80-3e27-4759-8d27-063abc340dfd)
+
 
 
 
