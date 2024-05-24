@@ -10,9 +10,8 @@ Grand Blanc, Michigan 48439
 
 810.498.9636 
 
-[milana_kia@icloud.com]
-
-[milanaskia88@gbstu.org]
+📫 How to reach me: <a href='mailto:milana_kia@icloud.com'>milanaskia88@gbstu.org</a>
+</p>![image](https://github.com/milanakia/milanakia/assets/170120484/53b79a80-3e27-4759-8d27-063abc340dfd)
 
 
 
@@ -31,7 +30,7 @@ _April 20th-23rd 2024_
  
 
 - Create and present a public presentation of the causes of technology addiction and ways to end or improve it
-- 
+
 - Presented to multiple judges and gained experience with a worklike place
 
 
