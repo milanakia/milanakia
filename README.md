@@ -18,7 +18,7 @@ Grand Blanc, Michigan 48439
 
 <p align='center'>
 <a href="https://www.snapchat.com/in/milana.kia/">
- <img src="https://img.shields.io/badge/snapchat-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/snapchat-%230077B5.svg?&style=for-the-badge&logo=snapchat&logoColor=white"/>
 </a>
  <a href="https://t.me/milana.kia">
  <img src="https://img.shields.io/badge/Youtube-2CA5E0?style=for-the-badge&logo=Youtube&logoColor=white"/>
