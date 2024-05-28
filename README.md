@@ -133,7 +133,7 @@ Still completing my 4 years
  
 
 ## 🛠 Technology Stack  
-* * Python, Javascript, Java 
+* Python, Javascript, Java 
 * HTML, CSS 
 * GitHub 
 * SCORM 
