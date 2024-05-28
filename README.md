@@ -132,7 +132,6 @@ Still completing my 4 years
 
  
 
-## 🛠 Technology Stack 
-## 🛠 Technology Stack
-* GitHub/GitLab![image](https://github.com/milanakia/milanakia/assets/170120484/8214f86f-e380-49ec-96a4-db0c45c548bb)
+## 🛠 Technology Stack  
+* GitHub/GitLab
 
